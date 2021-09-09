@@ -1,1 +1,8 @@
-readme
+version: 1.0.2
+files:
+  - url: ttl-setup-1.0.1.exe
+    sha512: N7gltYn+WhkOoPLrzIgfPo01Hz/bAKR/FkxgrukM9Nd6gTZkM+mV1uObEGZ2bH6FEgscPo9LjkBl+FSDWhiKKw==
+    size: 192626175
+path: ttl-setup-1.0.1.exe
+sha512: N7gltYn+WhkOoPLrzIgfPo01Hz/bAKR/FkxgrukM9Nd6gTZkM+mV1uObEGZ2bH6FEgscPo9LjkBl+FSDWhiKKw==
+releaseDate: '2021-09-08T20:11:43.597Z'
