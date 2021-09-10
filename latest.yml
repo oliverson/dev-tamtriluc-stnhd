@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.0.1
 files:
-  - url: ttl-setup-1.0.1.exe
-    sha512: N7gltYn+WhkOoPLrzIgfPo01Hz/bAKR/FkxgrukM9Nd6gTZkM+mV1uObEGZ2bH6FEgscPo9LjkBl+FSDWhiKKw==
-    size: 192626175
-path: ttl-setup-1.0.1.exe
-sha512: N7gltYn+WhkOoPLrzIgfPo01Hz/bAKR/FkxgrukM9Nd6gTZkM+mV1uObEGZ2bH6FEgscPo9LjkBl+FSDWhiKKw==
-releaseDate: '2021-09-08T20:11:43.597Z'
+  - url: TamTriLuc-Setup-1.0.1.exe
+    sha512: lT6N0rm3V9FDb5GzlzNzK5c/sgbtrEAlR85882VNCO91jAYmWvAds5JKjgjIxm5zIt4bAFHAjxs5ICaWw9sI6A==
+    size: 199065394
+path: TamTriLuc-Setup-1.0.1.exe
+sha512: lT6N0rm3V9FDb5GzlzNzK5c/sgbtrEAlR85882VNCO91jAYmWvAds5JKjgjIxm5zIt4bAFHAjxs5ICaWw9sI6A==
+releaseDate: '2021-09-10T07:11:00.037Z'
